@@ -1,0 +1,48 @@
+D:\Semila\HND SE\Programming\Programming Asses\bin\Debug\Programming Asses.exe.config
+D:\Semila\HND SE\Programming\Programming Asses\bin\Debug\Programming Asses.exe
+D:\Semila\HND SE\Programming\Programming Asses\bin\Debug\Programming Asses.pdb
+D:\Semila\HND SE\Programming\Programming Asses\obj\Debug\Programming Asses.csproj.AssemblyReference.cache
+D:\Semila\HND SE\Programming\Programming Asses\obj\Debug\Programming Asses.csproj.SuggestedBindingRedirects.cache
+D:\Semila\HND SE\Programming\Programming Asses\obj\Debug\Programming_Asses.Form1.resources
+D:\Semila\HND SE\Programming\Programming Asses\obj\Debug\Programming_Asses.Properties.Resources.resources
+D:\Semila\HND SE\Programming\Programming Asses\obj\Debug\Programming Asses.csproj.GenerateResource.cache
+D:\Semila\HND SE\Programming\Programming Asses\obj\Debug\Programming Asses.csproj.CoreCompileInputs.cache
+D:\Semila\HND SE\Programming\Programming Asses\obj\Debug\Programming Asses.exe
+D:\Semila\HND SE\Programming\Programming Asses\obj\Debug\Programming Asses.pdb
+D:\Semila\HND SE\Programming\Programming Asses\obj\Debug\Programming_Asses.Dashboard.resources
+D:\Semila\HND SE\Programming\Programming Asses\obj\Debug\Programming_Asses.Empoyee_component.resources
+D:\Semila\HND SE\Programming\Programming Asses\obj\Debug\Programming_Asses.Salary_component.resources
+D:\Semila\HND SE\Programming\Programming Asses\obj\Debug\Programming_Asses.Setting_component.resources
+D:\Semila\HND SE\Programming\Asiignment\Programming Asses\bin\Debug\Programming Asses.exe.config
+D:\Semila\HND SE\Programming\Asiignment\Programming Asses\bin\Debug\Programming Asses.exe
+D:\Semila\HND SE\Programming\Asiignment\Programming Asses\bin\Debug\Programming Asses.pdb
+D:\Semila\HND SE\Programming\Asiignment\Programming Asses\obj\Debug\Programming Asses.csproj.AssemblyReference.cache
+D:\Semila\HND SE\Programming\Asiignment\Programming Asses\obj\Debug\Programming Asses.csproj.SuggestedBindingRedirects.cache
+D:\Semila\HND SE\Programming\Asiignment\Programming Asses\obj\Debug\Programming_Asses.Dashboard.resources
+D:\Semila\HND SE\Programming\Asiignment\Programming Asses\obj\Debug\Programming_Asses.Form1.resources
+D:\Semila\HND SE\Programming\Asiignment\Programming Asses\obj\Debug\Programming_Asses.Properties.Resources.resources
+D:\Semila\HND SE\Programming\Asiignment\Programming Asses\obj\Debug\Programming_Asses.Salary_component.resources
+D:\Semila\HND SE\Programming\Asiignment\Programming Asses\obj\Debug\Programming_Asses.Setting_component.resources
+D:\Semila\HND SE\Programming\Asiignment\Programming Asses\obj\Debug\Programming Asses.csproj.GenerateResource.cache
+D:\Semila\HND SE\Programming\Asiignment\Programming Asses\obj\Debug\Programming Asses.csproj.CoreCompileInputs.cache
+D:\Semila\HND SE\Programming\Asiignment\Programming Asses\obj\Debug\Programming Asses.exe
+D:\Semila\HND SE\Programming\Asiignment\Programming Asses\obj\Debug\Programming Asses.pdb
+D:\Semila\HND SE\Programming\Asiignment\Programming Asses\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Semila\HND SE\Programming\Asiignment\Programming Asses\obj\Debug\Programming Asses.csproj.CopyComplete
+D:\Semila\HND SE\Programming\Asiignment\Programming Asses\obj\Debug\Programming_Asses.Employee_component.resources
+E:\Semila\HND SE\Semester 01\Programming\Asiignment\Programming Asses\bin\Debug\Programming Asses.exe.config
+E:\Semila\HND SE\Semester 01\Programming\Asiignment\Programming Asses\bin\Debug\Programming Asses.exe
+E:\Semila\HND SE\Semester 01\Programming\Asiignment\Programming Asses\bin\Debug\Programming Asses.pdb
+E:\Semila\HND SE\Semester 01\Programming\Asiignment\Programming Asses\obj\Debug\Programming Asses.csproj.AssemblyReference.cache
+E:\Semila\HND SE\Semester 01\Programming\Asiignment\Programming Asses\obj\Debug\Programming Asses.csproj.SuggestedBindingRedirects.cache
+E:\Semila\HND SE\Semester 01\Programming\Asiignment\Programming Asses\obj\Debug\Programming_Asses.Dashboard.resources
+E:\Semila\HND SE\Semester 01\Programming\Asiignment\Programming Asses\obj\Debug\Programming_Asses.Employee_component.resources
+E:\Semila\HND SE\Semester 01\Programming\Asiignment\Programming Asses\obj\Debug\Programming_Asses.Form1.resources
+E:\Semila\HND SE\Semester 01\Programming\Asiignment\Programming Asses\obj\Debug\Programming_Asses.Properties.Resources.resources
+E:\Semila\HND SE\Semester 01\Programming\Asiignment\Programming Asses\obj\Debug\Programming_Asses.Salary_component.resources
+E:\Semila\HND SE\Semester 01\Programming\Asiignment\Programming Asses\obj\Debug\Programming_Asses.Setting_component.resources
+E:\Semila\HND SE\Semester 01\Programming\Asiignment\Programming Asses\obj\Debug\Programming Asses.csproj.GenerateResource.cache
+E:\Semila\HND SE\Semester 01\Programming\Asiignment\Programming Asses\obj\Debug\Programming Asses.csproj.CoreCompileInputs.cache
+E:\Semila\HND SE\Semester 01\Programming\Asiignment\Programming Asses\obj\Debug\Programming Asses.csproj.CopyComplete
+E:\Semila\HND SE\Semester 01\Programming\Asiignment\Programming Asses\obj\Debug\Programming Asses.exe
+E:\Semila\HND SE\Semester 01\Programming\Asiignment\Programming Asses\obj\Debug\Programming Asses.pdb
